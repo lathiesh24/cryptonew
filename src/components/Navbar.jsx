@@ -26,7 +26,7 @@ const Navbar = () => {
       <div className='nav-container'>
         <div className="logo-container">
           <Avatar src={icon} size="large"/>
-          <Typography.Title level={2} className="logo" style={{ color: "white" }}>
+          <Typography.Title level={2} className="logo" style={{ color: "white",paddingTop:"10px" }}>
             Coin Watch
           </Typography.Title>
           <Button 

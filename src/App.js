@@ -43,7 +43,10 @@ const App = () => {
         <div className="footer">
           <Typography.Title
             level={5}
-            style={{ color: "white", textAlign: "center" }}
+            style={{
+              color: "white",
+              textAlign: "center",
+            }}
           >
             Copyright © 2021
             <br />
