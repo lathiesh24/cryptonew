@@ -46,7 +46,8 @@ const App = () => {
             style={{ color: "white", textAlign: "center" }}
           >
             Copyright © 2021
-            <Link to="/">CryptovTracker</Link> <br />
+            <br />
+            <Link to="/">Coin Watch</Link> <br />
             All Rights Reserved.
           </Typography.Title>
           <Space>
