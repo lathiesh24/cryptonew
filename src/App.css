@@ -2,7 +2,7 @@
     --text-primary: #000;
     --bgPrimary: #fff;
     --bgSecondary: #F9F9F9;
-    --pink: #301934;
+    --pink: #FF0000;
     --light-blue: #e6f7ff;
     --border: #d9d9d9;
 }
@@ -339,11 +339,11 @@ a:hover {
     display: flex;
     justify-content: space-between;
     gap: 50px;
-    color: #301934;
+    color: #FF0000;
 }
 
 .chart-title {
-    color: #301934 !important;
+    color: #FF0000 !important;
 }
 
 .price-container {
